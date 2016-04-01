@@ -1,0 +1,28 @@
+name: NewSpace
+favicon: null
+layout_spectrum: 0.08505129325203598
+typography_spectrum: 0.43194511998444796
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7310651410371065
+  lightness: 0.19992023706436157
+  saturation: 0.4954098036978394
+  rhythmicContrast: 0.24508949532173574
+purpose: []
